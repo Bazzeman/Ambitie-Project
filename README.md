@@ -62,30 +62,4 @@ Ik wil mijn eigen portfolio website gaan maken wat:
 Mijn lange termijn doelen zijn voornamelijk gericht op het werken binnen een bedrijf. Om aangenomen te worden bij bedrijven moet je jezelf, je kennis, vaardigheden en motivatie kunnen presenteren. Voor een Software Developer is het maken van een portfolio cruciaal om aangenomen te worden bij een brijdrijf als werknemer omdat er binnen Software Development heel veel verschillende richtingen zijn met hun eigen specialisaties.
 
 ### Prioriteiten
-#### Moet
-- Één pagina
-- Omschrijven wie ik ben
-- Omschrijven wat ik kan
-- Omschrijven welke studies ik volg/heb gevolgd
-- Uitleggen waar mijn vaardigheden en specialisaties liggen
-- Kort beschrijven van- en linken naar projecten waar ik trots op ben
-
-#### Zou moeten
-- Simpele styling (gekleurde achtergrond, non-default lettertype, foto en tekst positionering)
-- Voorbeeld foto's projecten
-- Foto van mezelf
-- Contact informatie
-- Uitleggen wat mij inspireert als Software Developer
-- Uitleggen wat mij motiveert als Software Developer
-
-#### Zou kunnen
-- Website navigatie
-- Goede styling (icoontjes, tekst highlights, foto scaling, hover-over effecten)
-- Content gesplits over meerdere pagina's
-
-#### Kan
-- Geavanceerde styling (light en dark mode, animaties, 3D object rendering, etc.)
-- Speelbare demo's van projecten op portfolio website
-- `README.md` uit repositories gebruiken en visualiseren op website
-- Backend server door middel van `Node.js` en Web Sockets
-- Eigen webserver opzetten waar mijn portfolio op wordt gehost.
+Mijn prioriteiten voor dit project heb ik genoteerd in [MoSCoW.md](/Docs/MoSCoW.md) door middel van de MoSCoW methode.
